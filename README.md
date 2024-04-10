@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **goyalyash1605@gmail.com**
 
-- ⚡ Fun fact **i am curuios **
+- ⚡ Fun fact **i am curuios**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
