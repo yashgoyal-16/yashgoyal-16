@@ -42,6 +42,7 @@
 </p>
 
 <h3 align="left">Notable Projects:</h3>
+
 - 🌟 **[Place Recommendation System](https://github.com/yashgoyal-16/Place-Recomender)** : Predicted user preferences for historical places using NLP techniques.  
 
 - 📊 **[WhatsApp Chat Analyzer](https://github.com/yashgoyal-16/whatsapp-chat-anylizer)** : Analyzed and visualized WhatsApp chat data with Python.  
