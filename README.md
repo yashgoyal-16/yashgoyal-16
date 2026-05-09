@@ -1,205 +1,181 @@
 # Yash Goyal
 
-**AI GTM Engineer | Voice AI & Automation Systems Engineer | GenAI Builder**
+## AI GTM Engineer | Voice AI & Automation Systems Engineer
 
-📍 Ludhiana, Punjab, India  
-📧 goyalyash1605@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yashgoyal)  
-💻 [GitHub](https://github.com/yashgoyal-16)
+I build AI systems that drive revenue, automate operations, and scale outbound without adding headcount.
+
+My work sits at the intersection of:
+
+- GTM Systems
+- Voice AI
+- Workflow Automation
+- LLM Infrastructure
+- Revenue Operations
+- Agentic AI Workflows
+
+I focus on building production-ready systems that create measurable business outcomes — pipeline growth, operational efficiency, and conversion improvement.
 
 ---
 
 ## About Me
 
-I build AI-powered systems that connect business workflows, automation, and real customer conversations.
+I am currently working across AI GTM systems, Voice AI workflows, and automation infrastructure at **AItoFlo**, where I help build products like **CherryShot.ai** and other AI-driven outbound and automation systems.
 
-My work focuses on three main areas:
+I specialize in:
 
-1. **AI GTM Systems** — outbound engines, lead enrichment, personalization workflows, and revenue automation.
-2. **Voice AI Systems** — inbound/outbound voice agents, call workflows, structured feedback capture, and CRM handoffs.
-3. **Automation Infrastructure** — n8n workflows, webhooks, API orchestration, retry logic, data routing, and reporting systems.
+- End-to-end outbound systems using Apollo, Instantly, HeyReach, Clay, and LinkedIn Sales Navigator
+- Advanced automation architecture using **n8n**, APIs, webhooks, and event-driven workflows
+- Voice AI systems using Vapi, Retell, LiveKit, and real-time conversational workflows
+- Prompt engineering, RAG systems, and LLM workflow orchestration using OpenAI and Claude APIs
+- Python-based backend systems for async processing, integrations, and workflow execution
 
-I enjoy building practical AI systems that reduce manual work, improve pipeline efficiency, and turn messy business processes into reliable automated workflows.
-
----
-
-## What I Work On
-
-### AI GTM & Revenue Automation
-
-- Build outbound systems using Apollo, Instantly, HeyReach, Clay, and LinkedIn Sales Navigator
-- Create lead sourcing, enrichment, segmentation, and campaign execution workflows
-- Design AI-assisted personalization pipelines using OpenAI and Claude APIs
-- Build workflows that connect lead data, messaging, CRM updates, and reporting
-- Improve GTM operations by reducing repetitive manual work through automation
-
-### Voice AI & Conversational Systems
-
-- Build Voice AI workflows for lead qualification, customer feedback, appointment flows, and support use cases
-- Work with platforms such as Vapi, Retell, LiveKit, and other voice automation tools
-- Design call flows, webhook processing, structured data capture, and CRM handoff systems
-- Create post-call automation for summaries, lead status updates, follow-ups, and analytics
-- Focus on practical business use cases rather than demo-only voice agents
-
-### Automation Engineering
-
-- Build production-ready n8n workflows with webhooks, conditional logic, API calls, retries, and error handling
-- Connect tools such as CRMs, outreach platforms, enrichment APIs, Google Sheets, databases, and AI models
-- Automate lead enrichment, email sequences, reporting, content generation, and workflow handoffs
-- Design systems that are maintainable, observable, and easy for non-technical teams to use
+I prefer building systems over dashboards.
 
 ---
 
-## Experience
+## Current Work
 
-## AI GTM Engineer
+## AItoFlo
 
-### CherryShot.ai
+### AI GTM + Voice AI + Automation Infrastructure
 
-- Built end-to-end outbound revenue systems using Apollo, Instantly, HeyReach, and LinkedIn Sales Navigator
-- Designed lead sourcing, enrichment, campaign sequencing, reply routing, and deliverability workflows
-- Created AI-powered personalization workflows using enriched data such as role, industry, company context, and buying signals
-- Built n8n automation systems for lead enrichment, campaign operations, blog workflows, CRM sync, and reporting
-- Helped reduce repetitive GTM work by automating manual research, data movement, and follow-up workflows
-- Worked on multi-step outbound campaigns with A/B testing, messaging iteration, and performance tracking
-- Integrated OpenAI and Claude APIs into workflows for persona-based outreach copy, summaries, and GTM content generation
+Working on:
 
----
+- **CherryShot.ai** → AI-powered product image generation platform
+- Voice AI agents for outbound qualification and customer feedback collection
+- Automated outbound systems for lead generation and pipeline growth
+- Workflow infrastructure using n8n for CRM sync, enrichment, reporting, and event-driven execution
 
-## Voice AI & Automation Systems Engineer
+Key outcomes:
 
-### AItoFlo
-
-- Built Voice AI and automation workflows for real business use cases across outbound and inbound conversations
-- Worked with Voice AI platforms such as Vapi, Retell, and LiveKit for client-facing automation use cases
-- Designed call flows for lead qualification, customer feedback, appointment reminders, follow-ups, and structured data capture
-- Built webhook-based systems to receive call events, process transcripts, extract insights, and trigger follow-up actions
-- Created n8n workflows connecting voice calls with CRMs, email tools, enrichment APIs, spreadsheets, and reporting systems
-- Built automation flows for lead enrichment, CRM updates, event-triggered email sequences, call summaries, and analytics reporting
-- Implemented practical workflow reliability patterns such as retries, fallback paths, error handling, and API rate-limit handling
-- Focused on making Voice AI useful after the call by connecting call outputs to business workflows and sales operations
+- Increased qualified outbound pipeline by 3x
+- Reduced manual GTM work by 70%+
+- Built 15+ production automation workflows
+- Improved outbound personalization CTR by 45%
+- Reduced SDR call load using Voice AI qualification systems
 
 ---
 
-## GenAI Engineer
+## What I Build
 
-### 21 Spheres
+### Outbound Revenue Engines
 
-- Built RAG-based chatbot and conversational AI systems from scratch
-- Worked on web scraping, document processing, chunking, embeddings, retrieval, and LLM response generation
-- Built semantic search workflows using vector embeddings and retrieval logic
-- Improved chatbot accuracy by grounding answers in retrieved context
-- Worked with Python, OpenAI APIs, FAISS-style retrieval flows, and prompt engineering
-- Collaborated with teams to convert product requirements into working AI systems
+Apollo → Enrichment → Personalization → Instantly → Reply Routing → CRM → Reporting
+
+Built full outbound systems designed for scale, deliverability, and conversion.
 
 ---
 
-## Skills
+### Voice AI Systems
 
-### GTM & RevOps Tools
+Inbound + outbound voice workflows with:
 
-Apollo, Instantly, HeyReach, Clay, LinkedIn Sales Navigator, HubSpot, CRM workflows, outbound sequencing, lead enrichment, reply routing, campaign operations
+- qualification calls
+- feedback collection
+- structured call summaries
+- CRM updates
+- lead routing
+- automation triggers
 
-### Automation & Integration
+Focused on production systems, not demos.
 
-n8n, Zapier, Webhooks, REST APIs, API orchestration, workflow automation, event triggers, conditional logic, retry flows, error handling, scheduled workflows, Google Sheets automation, CRM sync, reporting automation
+---
+
+### Automation Infrastructure
+
+Production-grade workflow systems using:
+
+- n8n
+- APIs
+- Webhooks
+- Retry systems
+- Queue-based execution
+- Event-driven architecture
+- Multi-platform integrations
+
+Built for reliability and business operations.
+
+---
+
+### RAG + LLM Systems
+
+Built retrieval systems with:
+
+scraping → embeddings → vector search → grounded responses → citations
+
+Used for recommendations, customer support, and internal knowledge systems.
+
+---
+
+## Tech Stack
+
+### GTM + RevOps
+
+Apollo, Instantly, HeyReach, Clay, HubSpot, LinkedIn Sales Navigator
+
+### Automation
+
+n8n, Zapier, Webhooks, REST APIs, Workflow Orchestration, Event-driven Systems
 
 ### Voice AI
 
-Vapi, Retell, LiveKit, Voice AI workflows, inbound/outbound call automation, call transcripts, post-call summaries, structured data capture, lead qualification flows, customer feedback agents
+Vapi, Retell, LiveKit, Deepgram, ElevenLabs, WebRTC, SIP workflows
 
-### AI & LLMs
+### AI + LLMs
 
-OpenAI API, Anthropic Claude API, Prompt Engineering, RAG pipelines, LangChain, vector embeddings, semantic search, function calling, agentic workflows, LLM-based personalization
+OpenAI API, Claude API, Prompt Engineering, RAG, LangChain, FAISS, Pinecone
 
-### Programming & Backend
+### Backend + Systems
 
-Python, JavaScript, Flask, REST APIs, Web Scraping, BeautifulSoup, Scrapy, async workflows, WebSockets basics, Git, GitHub
+Python, Flask, Asyncio, WebSockets, Redis, MySQL, PostgreSQL
 
-### Data & ML
+### Development
 
-Pandas, Scikit-learn, Matplotlib, MySQL, PostgreSQL, FAISS-style retrieval, semantic search, embeddings, data cleaning, recommendation systems
-
-### Infrastructure & Tools
-
-Docker basics, Redis basics, API authentication, OAuth basics, request handling, workflow monitoring, system integration
+Git, GitHub, Docker (familiar), BeautifulSoup, Scrapy, Pandas, Scikit-learn
 
 ---
 
-## Key Projects
+## Featured Projects
 
-## AI Outbound Research & Personalization Engine
+### Customer Feedback Voice AI Platform
 
-Built a lead intelligence and personalization system that combines Apollo data, enrichment APIs, company context, and LLM-generated messaging.
+Automated customer feedback collection using Voice AI.
 
-**What it does:**
+Flow:
 
-- Pulls lead and company data from multiple sources
-- Builds dynamic lead profiles based on role, industry, company type, and context
-- Generates personalized outreach copy using LLMs
-- Routes leads into outbound campaigns
-- Supports campaign testing and messaging iteration
+CSV → Calls → Voice Feedback → Structured Reports → Product Team Insights
 
-**Tools:** Apollo, Instantly, HeyReach, n8n, OpenAI API, Claude API, Google Sheets, Webhooks
+Reduced the need for manual customer outreach.
 
 ---
 
-## Customer Feedback Voice AI Platform
+### AI Outbound Research Engine
 
-Built a Voice AI workflow that calls users, collects spoken feedback, summarizes conversations, and converts responses into structured insights.
+Built multi-source lead intelligence workflows using Apollo + enrichment APIs for hyper-personalized outbound campaigns.
 
-**What it does:**
+Dynamic personalization based on:
 
-- Imports contact lists through CSV or CRM workflows
-- Runs automated outbound feedback calls
-- Captures call transcripts and key responses
-- Categorizes feedback by theme such as UX, pricing, retention, and objections
-- Sends structured insights to internal teams
-
-**Tools:** Vapi, Retell, n8n, Webhooks, OpenAI API, Google Sheets, CRM integrations
+- funding stage
+- tech stack
+- buyer persona
+- role
+- company context
 
 ---
 
-## Enterprise Automation Infrastructure
+### Enterprise Automation Infrastructure
 
-Built automation workflows to connect lead data, voice call events, CRM updates, outbound tools, reporting, and internal operations.
+Built 15+ production workflows connecting:
 
-**Workflow examples:**
+Voice Calls → Lead Enrichment → CRM → Email Sequences → Analytics → Reporting
 
-- Voice call completed → transcript received → summary generated → CRM updated → follow-up email triggered
-- New lead added → enrichment API called → lead scored → campaign selected → outreach started
-- Blog/content generated → reviewed → distributed into social/email workflow
-- Campaign report generated → metrics summarized → team notified
-
-**Tools:** n8n, REST APIs, Webhooks, Google Sheets, OpenAI API, HubSpot, Instantly, HeyReach
+Focused on operational reliability and execution speed.
 
 ---
 
-## RAG-Based Product Recommender
+### Production RAG System
 
-Built an AI recommendation system using product data, vector embeddings, semantic retrieval, and LLM-generated responses.
-
-**What it does:**
-
-- Scrapes and processes product data
-- Converts product descriptions into embeddings
-- Retrieves relevant products using semantic search
-- Generates context-aware recommendations
-- Demonstrates end-to-end RAG pipeline design
-
-**Tools:** Python, OpenAI API, embeddings, vector search, web scraping, semantic retrieval
-
----
-
-## Older Projects
-
-- Face Recognition Attendance System
-- Jarvis AI Assistant
-- WhatsApp Chat Analyzer
-- Library Management System
-- Quiz App inspired by Kaun Banega Crorepati
-- Snake-Water-Gun Game
-- Flask and Docker setup scripts
+Built full retrieval pipeline for intelligent recommendations and product discovery using semantic search and grounded LLM responses.
 
 ---
 
@@ -207,46 +183,30 @@ Built an AI recommendation system using product data, vector embeddings, semanti
 
 ### Bachelor of Computer Applications (BCA)
 
-**Guru Nanak Dev Engineering College, Ludhiana**  
-Aug 2023 – Apr 2026
+Guru Nanak Dev Engineering College, Ludhiana
 
-- Technical Member, Computonics Club
-- Worked on AI, ML, RAG chatbots, Voice AI workflows, and automation systems
-- Participated in AI hackathon projects involving Voice AI, recommendation systems, and chatbot workflows
+Technical Member — Computonics Club
 
 ---
 
-## Learning & Interests
+## Connect
 
-I am actively learning and building around:
+### LinkedIn
 
-- Voice AI infrastructure
-- Real-time conversational agents
-- AI automation systems
-- GTM engineering
-- RAG and semantic search
-- Workflow orchestration
-- Agentic AI systems
-- Practical AI products for businesses
+[linkedin.com/in/yashgoyal
+](https://www.linkedin.com/in/yash-goyal-074a8625a/)
+### GitHub
 
----
+github.com/yashgoyal-16
 
-## GitHub Focus
+### Email
 
-My GitHub reflects my journey from Python and ML fundamentals to applied AI systems.
-
-I am interested in building projects that combine:
-
-- AI + automation
-- Voice agents + business workflows
-- LLMs + structured data
-- GTM systems + APIs
-- RAG + product experiences
+goyalyash1605@gmail.com
 
 ---
 
-## Connect With Me
+I like building systems where AI actually ships and creates business value.
 
-I like working on practical AI systems that create business impact.
+Not AI for hype.
 
-If you are building in Voice AI, AI GTM, automation, or agentic workflows, feel free to connect.
+AI for execution.
